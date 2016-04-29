@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesan01rieggoog_0006.png"; bbox 0 0 2782 4776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 417 2002 1204 2213">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 417 2002 1204 2213">
+     <span class='ocr_line' id='line_1_1' title="bbox 417 2002 1204 2213; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 417 2002 699 2204; x_wconf 78' lang='grc' dir='ltr'>ΟΤΤΟΝΙΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 738 2091 983 2213; x_wconf 78' lang='lat' dir='ltr'>HENSE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1201 2199 1204 2203; x_wconf 77' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1396 4776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1396 4776">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1396 4776; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1396 4776; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
